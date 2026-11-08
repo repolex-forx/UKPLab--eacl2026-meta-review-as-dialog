@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/eacl2026-meta-review-as-dialog/commit/94e80d92d66279e635f462cc2bc91e3426361529",
       "git:hexsha": "94e80d92d66279e635f462cc2bc91e3426361529",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T17:34:11.775546+00:00"
     }
   ]
 }
