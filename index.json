@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "eacl2026-meta-review-as-dialog",
+  "versions": [
+    {
+      "commit": "94e80d92d66279e635f462cc2bc91e3426361529",
+      "tag": "",
+      "parsed_at": "2026-11-08T17:34:11.775978+00:00"
+    }
+  ]
+}
